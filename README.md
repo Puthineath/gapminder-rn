@@ -1,3 +1,3 @@
 # gapminder-rn
 
-Credit to Renaud Blanch (Associate professor, Université Grenoble Alpes)
+got this demo from Renaud Blanch (Associate professor, Université Grenoble Alpes)
